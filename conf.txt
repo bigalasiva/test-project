@@ -6,11 +6,7 @@ this is edited in featuree branch
 
 this the changes made in hotfix 
 this is the change in feature bramch to check merge conflictttttttt
-<<<<<<< HEAD
-cherry pick 
-=======
 cherry pick
 
 cherry pick2
 cherrypick3 succed cherrypicking in the develop branch 
->>>>>>> b3120a9 (added cherypick3)
